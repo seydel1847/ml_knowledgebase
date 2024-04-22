@@ -1,4 +1,4 @@
-# ML knowledge base for learning
+# ML learning
 
 Embeddings
 
